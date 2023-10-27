@@ -1,8 +1,4 @@
-// Gamer always plays first
-// Gamer always puts  "X" when bot puts "0"
-// Bot choose empty plays
-// index colums start from 0;
-
+//Author Rudolf 
 import java.util.ArrayList;
 import java.util.Objects;
 import java.util.Random;
