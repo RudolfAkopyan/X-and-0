@@ -31,6 +31,7 @@ public class Main {
 
         while (true) {
             startGameRound();
+            System.out.println( "wer");
         }
     }
 
